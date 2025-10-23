@@ -1,5 +1,5 @@
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
-# Nome do projeto
+# CLIP PETRO
 
 #### Aluno: [Abdigal Camargo]([https://github.com/link_do_github](https://github.com/Abdigal1))
 #### Orientadora: [Manoela Kohler]([https://github.com/link_do_github](https://github.com/manoelakohler)).
