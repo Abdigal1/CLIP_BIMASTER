@@ -7,10 +7,9 @@
 ---
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
-[Link de Projeto](https://github.com/Abdigal1/CLIP_BIMASTER)
 
 <!-- para os links a seguir, caso os arquivos estejam no mesmo repositório que este README, não há necessidade de incluir o link completo: basta incluir o nome do arquivo, com extensão, que o GitHub completa o link corretamente -->
-- [Link para o código]([https://github.com/link_do_repositorio](https://github.com/Abdigal1/CLIP_BIMASTER)). <!-- caso não aplicável, remover esta linha -->
+- [Link para o código](https://github.com/Abdigal1/CLIP_BIMASTER) <!-- caso não aplicável, remover esta linha -->
 
 - Trabalhos relacionados: <!-- caso não aplicável, remover estas linhas -->
     - [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
