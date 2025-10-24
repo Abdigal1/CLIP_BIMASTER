@@ -15,7 +15,6 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
     - [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
     - [Lithology Identification in Carbonate Thin Section Images of the Brazilian Pre-Salt Reservoirs](https://ieeexplore.ieee.org/abstract/document/10814886).
 
-[Link do Projeto](https://github.com/Abdigal1/CLIP_BIMASTER)
 
 ---
 
