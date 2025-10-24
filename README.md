@@ -25,17 +25,12 @@ A caracterização de rochas em um poço é um processo demorado e suscetível a
 
 ### Abstract <!-- Opcional! Caso não aplicável, remover esta seção -->
 
-<!-- trocar o texto abaixo pelo resumo do trabalho, em inglês -->
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
-
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
-
-Donec molestie, ante quis tempus consequat, mauris ante fringilla elit, euismod hendrerit leo erat et felis. Mauris faucibus odio est, non sagittis urna maximus ut. Suspendisse blandit ligula pellentesque tincidunt malesuada. Sed at ornare ligula, et aliquam dui. Cras a lectus id turpis accumsan pellentesque ut eget metus. Pellentesque rhoncus pellentesque est et viverra. Pellentesque non risus velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+The characterization of rocks within a well is a time-consuming process and is often subject to biases arising from the expertise and judgment of specialists. Nevertheless, this procedure is essential for assessing the quality of the well and determining its extraction potential. In particular, within the pre-salt environment, the development of methods that enable faster, automated, and bias-free characterization becomes highly valuable. Even more significant is the ability to have a system capable of generating detailed, human-readable descriptions of rock samples. This is precisely the objective of this work: to employ a model known as CLIP and adapt it to a database containing specialized technical knowledge, aligned with rock thin-section images.
 
 ### 1. Introdução
+A caracterização de rochas em poços é uma etapa essencial para avaliar a qualidade e o potencial de extração, porém costuma ser um processo demorado e sujeito a vieses humanos. No contexto do pré-sal, torna-se especialmente relevante desenvolver métodos automatizados e imparciais que acelerem essa análise e aprimorem sua precisão.
 
-The characterization of rocks within a well is a time-consuming process and is often subject to biases arising from the expertise and judgment of specialists. Nevertheless, this procedure is essential for assessing the quality of the well and determining its extraction potential. In particular, within the pre-salt environment, the development of methods that enable faster, automated, and bias-free characterization becomes highly valuable. Even more significant is the ability to have a system capable of generating detailed, human-readable descriptions of rock samples. This is precisely the objective of this work: to employ a model known as CLIP and adapt it to a database containing specialized technical knowledge, aligned with rock thin-section images.
+Neste trabalho, propõe-se o uso de um modelo multimodal baseado no CLIP, adaptado a uma base de dados composta por imagens de lâminas de rochas e descrições textuais técnicas. O objetivo é explorar a capacidade dessa arquitetura em associar informações visuais e textuais, demonstrando seu potencial para apoiar a caracterização automatizada de rochas carbonáticas no ambiente do pré-sal.
 
 ### 2. Modelagem
 
