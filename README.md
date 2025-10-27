@@ -1,5 +1,5 @@
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
-# CLIP PETRO
+# CLIP BIMASTER
 
 #### Aluno: [Abdigal Camargo](https://github.com/Abdigal1)
 #### Orientadora: [Manoela Kohler](https://github.com/manoelakohler)
